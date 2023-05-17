@@ -1,0 +1,11 @@
+- git:
+    local-name: ros_kortex
+    uri: https://github.com/KinovaRobotics/ros_kortex.git
+    version: noetic-devel
+
+- git: 
+    local-name: realsense
+    uri: https://github.com/IntelRealSense/realsense-ros.git
+    version: ros1-legacy
+
+
