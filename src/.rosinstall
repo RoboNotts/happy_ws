@@ -8,4 +8,17 @@
     uri: https://github.com/IntelRealSense/realsense-ros.git
     version: ros1-legacy
 
+- git: 
+    local-name: happy
+    uri: https://github.com/RoboNotts/happy.git
+    version: main
 
+- git: 
+    local-name: refbox
+    uri: https://github.com/HEART-MET/metrics_refbox_client.git
+    version: master
+
+- git: 
+    local-name: smach
+    uri: https://github.com/ros/executive_smach.git
+    version: noetic-devel
