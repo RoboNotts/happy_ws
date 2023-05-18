@@ -10,7 +10,7 @@
 
 - git: 
     local-name: happy
-    uri: https://github.com/RoboNotts/happy.git
+    uri: git@github.com:RoboNotts/happy.git
     version: main
 
 - git: 
