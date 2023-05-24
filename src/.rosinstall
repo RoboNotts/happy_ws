@@ -19,6 +19,11 @@
     version: master
 
 - git: 
+    local-name: drake
+    uri: git@github.com:RoboNotts/Drake.git
+    version: main
+
+- git: 
     local-name: smach
     uri: https://github.com/ros/executive_smach.git
     version: noetic-devel
